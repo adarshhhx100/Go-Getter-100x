@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Go100x 
 ### Go100x: Your All-in-One Productivity Companion
 Elevate your productivity with Go100x, the ultimate tool to supercharge your daily tasks. Designed to help you stay focused, organized, and motivated, our app empowers you to achieve your goals and maximize your potential.
