@@ -18,7 +18,7 @@ const Notes = () => {
 
 
   const handleOpenForm = (event) => {
-    setAnchorEl(event.currentTarget); // Set the anchor element for positioning
+    setAnchorEl(event.currentTarget);
     setIsFormOpen(true);
   };
 
@@ -56,3 +56,4 @@ const Notes = () => {
 };
 
 export default Notes;
+
